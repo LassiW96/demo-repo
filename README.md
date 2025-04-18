@@ -1,3 +1,3 @@
 # Justs a demo 
 
-Starting work in GitHub
+Starting work on Git and GitHub
